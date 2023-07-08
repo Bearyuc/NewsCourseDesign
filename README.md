@@ -23,4 +23,5 @@
 
 以上功能旨在提供一个全面而实用的新闻信息管理系统，满足用户对新闻数据的获取、存储、管理和分析的需求。
 ```
-![fc581de09a560d3e923426b70bd36b70](https://github.com/Bearyuc/News/assets/110098256/07b9115b-95cb-4dfe-83ad-17ffc4d9b9d7)
+![image](https://github.com/Bearyuc/NewsCourseDesign/assets/110098256/10be698b-b66b-4cc4-9994-256490eda16f)
+
